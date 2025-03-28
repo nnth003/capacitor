@@ -98,6 +98,6 @@ Sau đó, chạy ứng dụng trong Xcode.
 ![Chụp màn hình](src/assets/screenshots/chupmanhinh.png)
 
 ## 8. Ảnh chụp màn hình chạy trong Android Studio
-![Ảnh 1](src/assets/screenshots/Screenshot_21.png)
-![Ảnh 2](src/assets/screenshots/Screenshot_22.png)
-![Ảnh 3](src/assets/screenshots/Screenshot_23.png)
+![Ảnh 1](src/assets/screenshots/Screenshot(21).png)
+![Ảnh 2](src/assets/screenshots/Screenshot(22).png)
+![Ảnh 3](src/assets/screenshots/Screenshot(23).png)
