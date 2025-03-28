@@ -91,11 +91,11 @@ Sau đó, chạy ứng dụng trong Xcode.
 🚀 **Ứng dụng đã sẵn sàng để sử dụng!**
 
 ## 7. Ảnh chụp màn hình các tính năng
-![Ảnh chụp màn hình](src/assets/screenshots/Screenshot_20250326_170832.png)
-![Hiển thị thời gian](src/assets/screenshots/hienthithoigian.png)
-![Chia sẻ thời gian](src/assets/screenshots/chiasethoigian.png)
-![Hiển thị thông báo](src/assets/screenshots/hienthithongbao.png)
-![Chụp màn hình](src/assets/screenshots/chupmanhinh.png)
+
+| Hiển thị thời gian | Chia sẻ thời gian | Hiển thị thông báo | Chụp màn hình |
+|--------------------|------------------|--------------------|--------------|
+| ![Hiển thị thời gian](src/assets/screenshots/hienthithoigian.png) | ![Chia sẻ thời gian](src/assets/screenshots/chiasethoigian.png) | ![Hiển thị thông báo](src/assets/screenshots/hienthithongbao.png) | ![Chụp màn hình](src/assets/screenshots/chupmanhinh.png) |
+
 
 ## 8. Ảnh chụp màn hình chạy trong Android Studio
 ![Ảnh 1](src/assets/screenshots/Screenshot(21).png)
