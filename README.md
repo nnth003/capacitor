@@ -91,13 +91,13 @@ Sau đó, chạy ứng dụng trong Xcode.
 🚀 **Ứng dụng đã sẵn sàng để sử dụng!**
 
 ## 7. Ảnh chụp màn hình các tính năng
-![Ảnh chụp màn hình](/myApp/src/assets/screenshots/Screenshot_20250326_170832.png)
-![Hiển thị thời gian](/myApp/src/assets/screenshots/hienthithoigian.png)
-![Chia sẻ thời gian](/myApp/src/assets/screenshots/chiasethoigian.png)
-![Hiển thị thông báo](/myApp/src/assets/screenshots/hienthithongbao.png)
-![Chụp màn hình](/myApp/src/assets/screenshots/chupmanhinh.png)
+![Ảnh chụp màn hình](src/assets/screenshots/Screenshot_20250326_170832.png)
+![Hiển thị thời gian](src/assets/screenshots/hienthithoigian.png)
+![Chia sẻ thời gian](src/assets/screenshots/chiasethoigian.png)
+![Hiển thị thông báo](src/assets/screenshots/hienthithongbao.png)
+![Chụp màn hình](src/assets/screenshots/chupmanhinh.png)
 
-## 8. Ảnh chụp màn hình chạy trong android studio
-![Ảnh 1](/myApp/src/assets/screenshots/Screenshot%20(21).png)
-![Ảnh 2](/myApp/src/assets/screenshots/Screenshot%20(22).png)
-![Ảnh 3](/myApp/src/assets/screenshots/Screenshot%20(23).png)
+## 8. Ảnh chụp màn hình chạy trong Android Studio
+![Ảnh 1](src/assets/screenshots/Screenshot_21.png)
+![Ảnh 2](src/assets/screenshots/Screenshot_22.png)
+![Ảnh 3](src/assets/screenshots/Screenshot_23.png)
